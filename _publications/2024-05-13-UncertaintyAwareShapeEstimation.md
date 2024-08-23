@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 1"
+title: "Uncertainty-Aware Shape Estimation of a Surgical Continuum Manipulator in Constrained Environments using Fiber Bragg Grating Sensors"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1

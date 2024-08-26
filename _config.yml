@@ -21,7 +21,7 @@ repository               : "alejandro-mg.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "AMG_Picture_Low.jpg"
+  avatar           : "AMG_Picture_High.jpg"
   name             : "Alejandro Martin Gomez"
   pronouns         : # example: "he/his"  
   bio              : "Assistant Professor"

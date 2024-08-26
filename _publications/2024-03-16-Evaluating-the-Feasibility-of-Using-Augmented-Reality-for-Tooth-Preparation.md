@@ -1,7 +1,7 @@
 ---
 title: "Evaluating the Feasibility of Using Augmented Reality for Tooth Preparation"
 collection: publications
-category: 
+category: abstracts
 permalink: /publication/2024-03-16-Evaluating-the-Feasibility-of-Using-Augmented-Reality-for-Tooth-Preparation.md
 excerpt: 'In this work, we explore the feasibility of using Augmented Reality (AR) Head-Mounted Displays (HMDs) to assist dentists during tooth preparation using two different visualization techniques.'
 date: 2024-03-16

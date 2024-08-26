@@ -1,7 +1,7 @@
 ---
 title: "ClimbAR: Collaborative Augmented Reality for Climbing Applications"
 collection: publications
-category: 
+category: abstracts
 permalink: /publication/2024-03-16-ClimbAR-Collaborative-Augmented-Reality-for-Climbing-Applications.md
 excerpt: 'In this work we present ClimbAR an open-source, collaborative, real-time, augmented reality application for the Hololens 2 that al-lows boulderers to set climbing holds virtually to better understand and plan routes.'
 date: 2024-03-16

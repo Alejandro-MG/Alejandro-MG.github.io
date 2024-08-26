@@ -1,7 +1,7 @@
 ---
 title: "Magnifying Augmented Mirrors for Accurate Alignment Tasks"
 collection: publications
-category: 
+category: abstracts
 permalink: /publication/2023-05-25-Magnifying-Augmented-Mirrors-for-Accurate-Alignment-Tasks.md
 excerpt: 'Limited mobility in augmented reality applications restricts spatial understanding along with augmentation placement and visibility. Systems can counteract by providing perspectives by tracking and augmenting mirrors without requiring user movement. However, the decreased visual size of mirrored objects reduces accuracy for precision tasks. We propose Magnifying Augmented Mirrors: digitally zoomed mirror images mapped back onto their surface, producing magnified reflections. In a user study (N=14) conducted in virtual reality, we evaluated our method on a precision alignment task. Although participants needed time for acclimatization, they achieved the most accurate results using a magnified mirror..'
 date: 2023-05-25

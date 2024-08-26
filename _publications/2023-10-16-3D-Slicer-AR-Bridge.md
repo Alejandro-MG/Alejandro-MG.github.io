@@ -1,7 +1,7 @@
 ---
 title: "3D Slicer-AR-Bridge: 3D Slicer AR Connection for Medical Image Visualization and Interaction with AR-HMD"
 collection: publications
-category: 
+category: abstracts
 permalink: /publication/2023-10-16-3D-Slicer-AR-Bridge.md
 excerpt: 'In this work, we introduce 3D Slicer-AR-Bridge, a novel framework taking advantage of open-source medical image processing software 3D Slicer and advanced AR developing toolkits, to enable fast generation of surgical AR applications with high performance, high extensibility, and transparent data flow. The bridge is first built upon a seamless medical data sharing interface supporting volumes, segmentations, models, and annotations, between 3D Slicer and Unity, together with corresponding visualization and interaction methods.'
 date: 2023-10-16

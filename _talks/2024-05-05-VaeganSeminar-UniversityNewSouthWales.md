@@ -9,9 +9,6 @@ location: "University of New South Wales, Australia &#91;Remote&#93;"
 ---
 
 <!---
-[More information here](http://example2.com)
-This is a description of your talk, which is a markdown files that can be all markdown-ified like any other post. Yay markdown!
-
 This talk will present some examples of how fundamental concepts on visual perception can be integrated into the design of extended reality applications to promote successful transferability into medical applications. I will first introduce some of the challenges faced when designing mixed reality solutions for medical applications and describe how integrating fundamental concepts of visual perception can contribute to overcoming some of these challenges.
 
 In addition, I will exemplify how the use of virtual environments can enable the generation of synthetic datasets, and contribute to the development of learning-based algorithms and training systems.

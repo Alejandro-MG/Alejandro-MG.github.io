@@ -2,7 +2,7 @@
 title: "Towards Reducing Visual Workload in Surgical Navigation: Proof-of-concept of an Augmented Reality Haptic Guidance System"
 collection: publications
 category: manuscripts
-permalink: /publication/2022-12-07-Towards-Reducing-Visual-Workload-in-Surgical-Navigation.md
+permalink: /publication/2022-12-07-Towards-Reducing-Visual-Workload-in-Surgical-Navigation
 excerpt: 'The integration of planning and navigation capabilities into the operating room has enabled surgeons take on more precise procedures. Traditionally, planning and navigation information is presented using monitors in the surgical theatre. But the monitors force the surgeon to frequently look away from the surgical area. Augmented reality technologies have enabled surgeons to visualise navigation information in-situ. However, burdening the visual field with additional information can be distracting. We propose integrating haptic feedback into a surgical tool handle to enable surgical guidance capabilities. This property reduces the amount of visual information, freeing surgeons to maintain visual attention over the patient and the surgical site.'
 date: 2022-12-07
 venue: 'Computer Methods in Biomechanics and Biomedical Engineering: Imaging & Visualization'

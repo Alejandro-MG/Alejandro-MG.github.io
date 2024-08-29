@@ -2,7 +2,7 @@
 title: "Towards Visualising Early-stage Osteonecrosis using Intraoperative Imaging Modalities"
 collection: publications
 category: manuscripts
-permalink: /publication/2022-12-18-Towards-Visualising-Early-stage-Osteonecrosis-using-Intraoperative-Imaging-Modalities.md
+permalink: /publication/2022-12-18-Towards-Visualising-Early-stage-Osteonecrosis-using-Intraoperative-Imaging-Modalities
 excerpt: 'This work introduces a novel framework that enables the localisation of necrotic lesions in Computed Tomography (CT) as a step toward localising and visualising necrotic lesions in intra-operative images. The proposed framework enables the automatic segmentation of femur, pelvis, and necrotic lesions in MRI. An additional step performs semi-automatic segmentation of these anatomies, excluding the necrotic lesions, in CT. A final step performs pairwise registration of the corresponding anatomies, allowing for the localisation and visualisation of the necrosis in CT. This framework was tested on MRIs and CTs containing early-stage ONFH.'
 date: 2022-12-18
 venue: 'Computer Methods in Biomechanics and Biomedical Engineering: Imaging & Visualization'

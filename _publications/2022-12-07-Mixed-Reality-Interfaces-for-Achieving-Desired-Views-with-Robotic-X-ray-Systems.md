@@ -2,7 +2,7 @@
 title: "Mixed Reality Interfaces for Achieving Desired Views with Robotic X-ray Systems"
 collection: publications
 category: manuscripts
-permalink: /publication/2022-12-07-Mixed-Reality-Interfaces-for-Achieving-Desired-Views-with-Robotic-X-ray-Systems.md
+permalink: /publication/2022-12-07-Mixed-Reality-Interfaces-for-Achieving-Desired-Views-with-Robotic-X-ray-Systems
 excerpt: 'Robotic X-ray C-arm imaging systems can precisely achieve any position and orientation relative to the patient. Informing the system, however, what pose exactly corresponds to a desired view is challenging. Currently these systems are operated by the surgeon using joysticks, but this interaction is not necessarily effective because users may be unable to efficiently actuate more than a single axis of the system simultaneously. Moreover, novel robotic imaging systems, such as the Brainlab Loop-X, allow for independent source and detector movements, adding complexity. To address this challenge, we consider complementary interfaces for the surgeon to command robotic X-ray systems effectively. Specifically, we consider three interaction paradigms: (1) the use of a pointer to specify the principal ray of the desired view, (2) the same pointer, but combined with a mixed reality environment to synchronously render digitally reconstructed radiographs from the tool’s pose, and (3) the same mixed reality environment but with a virtual X-ray source instead of the pointer.'
 date: 2022-12-07
 venue: 'Computer Methods in Biomechanics and Biomedical Engineering: Imaging & Visualization'

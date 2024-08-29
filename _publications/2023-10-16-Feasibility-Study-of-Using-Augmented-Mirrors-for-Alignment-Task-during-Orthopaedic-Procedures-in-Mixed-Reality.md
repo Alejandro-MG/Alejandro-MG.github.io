@@ -2,7 +2,7 @@
 title: "Feasibility Study of Using Augmented Mirrors for Alignment Task during Orthopaedic Procedures in Mixed Reality"
 collection: publications
 category: abstracts
-permalink: /publication/2023-10-16-Feasibility-Study-of-Using-Augmented-Mirrors-for-Alignment-Task-during-Orthopaedic-Procedures-in-Mixed-Reality.md
+permalink: /publication/2023-10-16-Feasibility-Study-of-Using-Augmented-Mirrors-for-Alignment-Task-during-Orthopaedic-Procedures-in-Mixed-Reality
 excerpt: 'Accurate depth estimation poses a significant challenge in egocentric Augmented Reality (AR), particularly for precision-dependent tasks in the medical field, such as needle or tool insertions during percutaneous procedures. Augmented Mirrors (AMs) provide a unique solution to this problem by offering additional non-egocentric view-points that enhance spatial understanding of an AR scene. Despite the perceptual advantages of using AMs, their practical utility has yet to be thoroughly tested. In this work, we present results from a pilot study involving five participants tasked with simulating epidural injection procedures in an AR environment, both with and without the aid of an AM.'
 date: 2023-10-16
 venue: '2023 IEEE International Symposium on Mixed and Augmented Reality Adjunct (ISMAR-Adjunct)'

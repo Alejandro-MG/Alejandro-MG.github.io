@@ -5,7 +5,7 @@ type: "Talk"
 permalink: /talks/2024-05-05-VaeganSeminar-UniversityNewSouthWales
 venue: "Vaegan Seminar"
 date: 2014-02-01
-location: "University of New South Wales, Australia \[Remote\]"
+location: "University of New South Wales, Australia &#91;Remote&#93;"
 ---
 
 <!---

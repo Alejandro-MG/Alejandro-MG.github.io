@@ -11,4 +11,6 @@ I am an Assistant Professor at the [Electrical Engineering and Computer Science 
 
 My research interests focus on understanding the properties of human sensory and cognitive systems in order to create efficient, intuitive, understandable, and transferable XR experiences and include visual perception, extended reality, and their integration into interventional medicine and surgical robotics. I aim to combine fundamental principles of psychophysical theories and human-computer interaction to design perceptually-aware XR systems that efficiently fuse real and virtual content into a single world.
 
+<!---
 [![Watch the video](https://img.youtube.com/vi/3iWZiTJ7UCk/maxresdefault.jpg)](https://youtu.be/3iWZiTJ7UCk)
+-->

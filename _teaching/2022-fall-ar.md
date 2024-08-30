@@ -10,7 +10,9 @@ location: "Baltimore, Maryland, United States"
 
 Course Description:
 ======
+<div style="text-align: justify">
 This course introduces students to the field of Augmented Reality. It reviews its basic definitions, principles, and applications. It then focuses on Medical Augmented Reality and its particular requirements. The course also discusses the main issues of calibration, tracking, multi-modal registration, advanced visualization, and display technologies. Homework in this course will relate to the mathematical methods used for calibration, tracking, and visualization in medical augmented reality.
+</div>
 
 Objectives:
 ======

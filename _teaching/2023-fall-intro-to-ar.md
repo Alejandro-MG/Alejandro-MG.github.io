@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate and Undergraduate course"
 permalink: /teaching/2023-fall-intro-to-ar
 venue: "Johns Hopkins University, Department of Computer Science"
-date: 2023-01-21
+date: 2023-08-28
 location: "Baltimore, Maryland, United States"
 ---
 
